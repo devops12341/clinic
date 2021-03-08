@@ -9,7 +9,7 @@ pipeline {
         NEXUS_VERSION = "nexus3"
         NEXUS_PROTOCOL = "http"
         NEXUS_URL = "ec2-13-232-164-141.ap-south-1.compute.amazonaws.com:8081"
-        NEXUS_REPOSITORY = "build"
+        NEXUS_REPOSITORY = "new"
         NEXUS_CREDENTIAL_ID = "nexus-user-credentials"
     }
     stages {
